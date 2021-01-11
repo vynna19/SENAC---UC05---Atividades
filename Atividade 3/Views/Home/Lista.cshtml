@@ -1,0 +1,28 @@
+@model List<Aluno>
+@{
+    ViewData["Title"] = "Lista";
+}
+<h1>@ViewData["Title"] de PET</h1>
+
+<TABLE Border = "4" Cellpadding = "4" Cellspacing = "4">
+<CAPTION> Lista de PET </CAPTION>
+<TR> <TH> Nome: </TH> <TH> Telefone: </TH> <TH> Data: </TH> <TH> Animal: </TH> <TH> Necessidade: </TH> </TR>
+
+    <tbody>
+        @foreach (Aluno aluno in Model)
+        {
+            <tr>
+                <td>@aluno.Nome</td>
+                <td>@aluno.Telefone</td>
+                <td>@aluno.Data</td>
+                <td>@aluno.Animal</td>
+                <td>@aluno.Necessidade</td>
+                <td>@aluno.Valor</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="Cadastro">Adicionar outro PET</a>
+</p>

@@ -1,0 +1,25 @@
+@model ItemPedido
+<!-- Crie uma página com formulário para registrar um item de pedido -->
+@{
+    ViewData["Title"] = "Registro";
+}
+<h1>@ViewData["Title"] de Pedido</h1>
+
+<form method="POST">
+    <p>
+        <label asp-for="Item">Item </label>
+        <input asp-for="Item" />
+    </p>
+
+    <p>
+        <label asp-for="Valor">Valor </label>
+        <input asp-for="Valor" />
+    </p>
+
+    <p>
+        <label asp-for="Quantidade">Quantidade </label>
+        <input asp-for="Quantidade" />
+    </p>
+    <input type="submit" value="Enviar Pedido">
+
+</form>

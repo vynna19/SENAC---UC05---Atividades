@@ -1,0 +1,49 @@
+@model Aluno
+
+@{
+
+    ViewData["Title"] = "Agendamento";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form method="POST">
+    <p>
+        <label asp-for="Nome">Nome: </label>
+        <input asp-for="Nome" />
+    </p>
+
+    <p>
+        <label asp-for="Telefone">Telefone: </label>
+        <input asp-for="Telefone" />
+    </p>
+
+    <p>
+        <label asp-for="Data">Data: </label>
+        <input asp-for="Data" />
+    </p>
+
+    <p>
+        <label asp-for="Animal">Qual seu animal?</label><br />
+        <input type="checkbox" id="Animal" name="Animal" value="Cachorro">
+        <label asp-for="Animal">Cachorro</label><br />
+        <input type="checkbox" id="Animal" name="Animal" value="Gato">
+        <label asp-for="Animal">Gato</label><br />
+        <input type="checkbox" id="Animal" name="Animal" value="Pássarinho">
+        <label asp-for="Animal">Papagaio</label><br />
+        <input type="checkbox" id="Animal" name="Animal" value="Macaco">
+        <label asp-for="Animal">macaco</label><br />
+        <label asp-for="Animal">Outros: </label> <input asp-for="Animal" />
+    </p>
+
+    <p>
+        <label asp-for="Necessidade">Necessidade: </label>
+        <input asp-for="Necessidade" />
+    </p>
+
+    <p>
+        <label asp-for="Valor">Valor: </label>
+        <input asp-for="Valor" />
+    </p>
+
+    <input type="submit" value="Cadastrar">
+</form>

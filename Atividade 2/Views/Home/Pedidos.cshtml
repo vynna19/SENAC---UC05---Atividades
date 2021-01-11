@@ -1,0 +1,29 @@
+@model List<ItemPedido>
+@{
+    ViewData["Title"] = "Meus Pedidos";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table>
+    <thead>
+        <th>Item</th>
+        <th>Valor</th>
+        <th>Quantidade</th>
+    </thead>
+
+    <tbody>
+        @foreach (ItemPedido pedido in Model)
+        {
+            <tr>
+                <td>@pedido.Item</td>
+                <td>@pedido.Valor</td>
+                <td>@pedido.Quantidade</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="Registro">Adicionar novo Pedido</a>
+</p>

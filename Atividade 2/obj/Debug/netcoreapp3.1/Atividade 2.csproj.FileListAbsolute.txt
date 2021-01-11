@@ -1,0 +1,39 @@
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.exe
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.deps.json
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.json
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.dev.json
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.dll
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.pdb
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.Views.dll
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.Views.pdb
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csprojAssemblyReference.cache
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorAssemblyInfo.cache
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorAssemblyInfo.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfoInputs.cache
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfo.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.TagHelpers.input.cache
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.TagHelpers.output.cache
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorCoreGenerate.cache
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorTargetAssemblyInfo.cache
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorTargetAssemblyInfo.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.Views.pdb
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 2.StaticWebAssets.Manifest.cache
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 2.StaticWebAssets.xml
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.dll
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.pdb
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csproj.CopyComplete
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registro.cshtml.g.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Pedidos.cshtml.g.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Confirmação.cshtml.g.cs
+C:\Users\vinicius.assis\Google Drive\TI\Treinamento\Tecnologia de Internet\Atividades\C#\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
