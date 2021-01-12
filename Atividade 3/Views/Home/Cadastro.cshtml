@@ -9,40 +9,33 @@
 
 <form method="POST">
 
-    <p>
-        <label asp-for="Nome">Nome: </label>
-        <input asp-for="Nome" />
-    </p>
-
-    <p>
-        <label asp-for="Telefone">Telefone: </label>
-        <input asp-for="Telefone" />
-    </p>
-
-    <p>
-        <label asp-for="Data">Data: </label>
-        <input asp-for="Data" />
-    </p>
-
-    <p>
-        <label asp-for="Animal">Qual seu animal?</label><br />
-        <select class="form-control" id="Animal">
-            <option id="Animal" name="Animal" value="Cachorro">Cachorro</option>
-            <option id="Animal" name="Animal" value="Gato">Gato</option>
-            <option id="Animal" name="Animal" value="Passarinho">Passarinho</option>
-            <option id="Animal" name="Animal" value="Outros">Outros</option>
-        </select>
-    </p>
-
-    <p>
-        <label asp-for="Necessidade">Necessidade: </label>
-        <input asp-for="Necessidade" />
-    </p>
-
-    <p>
-        <label asp-for="Valor">Valor: </label>
-        <input asp-for="Valor" />
-    </p>
-
-    <input type="submit" value="Cadastrar">
+    <div class="row">
+        <div class="col-lg-6 col-xs-12 col-sm-6">
+            <div class="form-group">
+                <div><input asp-for="Nome" class="form-control" id="Nome" placeholder="Nome"></div>
+                </br>
+                <input asp-for="Telefone" class="form-control" id="Telefone" type="tel"
+                    pattern="[0-9]{2}[0-9]{5}[0-9]{4}" maxlength="15" placeholder="Telefone" required>
+                </br>
+                <input asp-for="Data" class="form-control" id="Data" type="date" placeholder="Data">
+                </br>
+                <!--
+                <label asp-for="Nome">Nome: </label>
+                 <input asp-for="Nome" />
+                -->
+                <label asp-for="Animal">Qual seu animal?</label><br />
+                <select class="form-control" asp-for="Animal" id="Animal">
+                    <option id="Animal" name="Animal" value="Cachorro">Cachorro</option>
+                    <option id="Animal" name="Animal" value="Gato">Gato</option>
+                    <option id="Animal" name="Animal" value="Passarinho">Passarinho</option>
+                    <option id="Animal" name="Animal" value="Outros">Outros</option>
+                </select>
+                </br>
+                <input asp-for="Necessidade" class="form-control" id="Necessidade" placeholder="Necessidade">
+                </br>
+                <input asp-for="Valor" class="form-control" id="Valor" type="number" min="0.00" max="10000.00" step="0.01" placeholder="Valor">
+            </div>
+        </div>
+    </div>
+    <input type="submit" class="btn btn-primary" value="Cadastrar">
 </form>
